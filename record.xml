@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <step chess="Cannon" class="RED">
+        <from>
+            <x>1</x>
+            <y>7</y>
+        </from>
+        <to>
+            <x>4</x>
+            <y>7</y>
+        </to>
+    </step>
+    <step chess="Rook" class="BLACK">
+        <from>
+            <x>0</x>
+            <y>0</y>
+        </from>
+        <to>
+            <x>0</x>
+            <y>1</y>
+        </to>
+    </step>
+    <step chess="Knight" class="RED">
+        <from>
+            <x>1</x>
+            <y>9</y>
+        </from>
+        <to>
+            <x>2</x>
+            <y>7</y>
+        </to>
+    </step>
+    <step chess="Rook" class="BLACK">
+        <from>
+            <x>8</x>
+            <y>0</y>
+        </from>
+        <to>
+            <x>8</x>
+            <y>1</y>
+        </to>
+    </step>
+    <step chess="Rook" class="RED">
+        <from>
+            <x>0</x>
+            <y>9</y>
+        </from>
+        <to>
+            <x>1</x>
+            <y>9</y>
+        </to>
+    </step>
+    <step chess="Cannon" class="BLACK">
+        <from>
+            <x>1</x>
+            <y>2</y>
+        </from>
+        <to>
+            <x>3</x>
+            <y>2</y>
+        </to>
+    </step>
+    <step chess="Mandarin" class="RED">
+        <from>
+            <x>3</x>
+            <y>9</y>
+        </from>
+        <to>
+            <x>4</x>
+            <y>8</y>
+        </to>
+    </step>
+    <step chess="Cannon" class="BLACK">
+        <from>
+            <x>7</x>
+            <y>2</y>
+        </from>
+        <to>
+            <x>7</x>
+            <y>9</y>
+        </to>
+    </step>
+    <step chess="Rook" class="RED">
+        <from>
+            <x>8</x>
+            <y>9</y>
+        </from>
+        <to>
+            <x>7</x>
+            <y>9</y>
+        </to>
+    </step>
+    <step chess="Rook" class="BLACK">
+        <from>
+            <x>0</x>
+            <y>1</y>
+        </from>
+        <to>
+            <x>5</x>
+            <y>1</y>
+        </to>
+    </step>
+    <step chess="Cannon" class="RED">
+        <from>
+            <x>7</x>
+            <y>7</y>
+        </from>
+        <to>
+            <x>6</x>
+            <y>7</y>
+        </to>
+    </step>
+    <step chess="Rook" class="BLACK">
+        <from>
+            <x>8</x>
+            <y>1</y>
+        </from>
+        <to>
+            <x>7</x>
+            <y>1</y>
+        </to>
+    </step>
+    <step chess="Rook" class="RED">
+        <from>
+            <x>7</x>
+            <y>9</y>
+        </from>
+        <to>
+            <x>7</x>
+            <y>1</y>
+        </to>
+    </step>
+    <step chess="Rook" class="BLACK">
+        <from>
+            <x>5</x>
+            <y>1</y>
+        </from>
+        <to>
+            <x>7</x>
+            <y>1</y>
+        </to>
+    </step>
+    <step chess="Pawn" class="RED">
+        <from>
+            <x>2</x>
+            <y>6</y>
+        </from>
+        <to>
+            <x>2</x>
+            <y>5</y>
+        </to>
+    </step>
+    <step chess="Knight" class="BLACK">
+        <from>
+            <x>1</x>
+            <y>0</y>
+        </from>
+        <to>
+            <x>2</x>
+            <y>2</y>
+        </to>
+    </step>
+    <step chess="Pawn" class="RED">
+        <from>
+            <x>6</x>
+            <y>6</y>
+        </from>
+        <to>
+            <x>6</x>
+            <y>5</y>
+        </to>
+    </step>
+    <step chess="Cannon" class="BLACK">
+        <from>
+            <x>3</x>
+            <y>2</y>
+        </from>
+        <to>
+            <x>3</x>
+            <y>4</y>
+        </to>
+    </step>
+</content>
