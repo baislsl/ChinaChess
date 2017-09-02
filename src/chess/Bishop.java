@@ -25,12 +25,12 @@ public class Bishop extends Chess {
         switch (id){
             case BLACK:
                 yMin = 0;yMax = 4;
-                imageIcon = new ImageIcon("Resources/bxiang.png");
+                imageIcon = new ImageIcon("res/bxiang.png");
                 break;
 
             default:    //id is RED
                 yMin = 5;yMax = 9;
-                imageIcon = new ImageIcon("Resources/rxiang.png");
+                imageIcon = new ImageIcon("res/rxiang.png");
                 break;
         }
 

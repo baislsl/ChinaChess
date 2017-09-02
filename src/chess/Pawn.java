@@ -38,11 +38,11 @@ public class Pawn extends Chess{
          if(id == ID.RED){
              dy = -1;
              boundary = 5;
-             imageIcon = new ImageIcon("Resources/rbing.png");
+             imageIcon = new ImageIcon("res/rbing.png");
          }else{
              dy = 1;
              boundary = 4;
-             imageIcon = new ImageIcon("Resources/bzu.png");
+             imageIcon = new ImageIcon("res/bzu.png");
          }
      }
 

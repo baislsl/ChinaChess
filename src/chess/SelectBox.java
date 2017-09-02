@@ -14,14 +14,14 @@ import java.util.ArrayList;
 public class SelectBox extends Chess {
     public SelectBox(int x, int y,boolean isBlue){
         super(new Point(x, y));
-        imageIcon = isBlue  ? new ImageIcon("Resources/blueSelected2.png")
-                            : new ImageIcon("Resources/redSelected.png");
+        imageIcon = isBlue  ? new ImageIcon("res/blueSelected2.png")
+                            : new ImageIcon("res/redSelected.png");
         valid = true;
     }
     public SelectBox(Point point, boolean isBlue){
         super(point);
-        imageIcon = isBlue  ? new ImageIcon("Resources/blueSelected2.png")
-                            : new ImageIcon("Resources/redSelected.png");
+        imageIcon = isBlue  ? new ImageIcon("res/blueSelected2.png")
+                            : new ImageIcon("res/redSelected.png");
         valid = true;
     }
 

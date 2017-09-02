@@ -24,13 +24,13 @@ public class King extends Chess {
         valid = true;
         switch (id){
             case BLACK:
-                imageIcon = new ImageIcon("Resources/bjiang.png");
+                imageIcon = new ImageIcon("res/bjiang.png");
                 yMin = 0;
                 yMax = 2;
                 break;
 
             default:    //id is RED
-                imageIcon = new ImageIcon("Resources/rshuai.png");
+                imageIcon = new ImageIcon("res/rshuai.png");
                 yMin = 7;
                 yMax = 9;
                 break;

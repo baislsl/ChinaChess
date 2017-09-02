@@ -22,7 +22,7 @@ public class GameGUI extends JPanel {
 
 
     public Chess.ID currentId = Chess.ID.RED;
-    final ImageIcon background = new ImageIcon("Resources/background.png");
+    final ImageIcon background = new ImageIcon("res/background.png");
     Chess[][] map;
     ArrayList<SelectBox> selectBox;
     SelectBox redBox;
@@ -66,8 +66,8 @@ public class GameGUI extends JPanel {
         }
 
         ImageIcon imageIcon = currentId == Chess.ID.RED
-                ? new ImageIcon("Resources/red.png")
-                : new ImageIcon("Resources/black.png");
+                ? new ImageIcon("res/red.png")
+                : new ImageIcon("res/black.png");
         g.drawImage(imageIcon.getImage(), 10, 356, this);
 
     }

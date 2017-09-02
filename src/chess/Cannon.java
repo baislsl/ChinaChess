@@ -35,11 +35,11 @@ public class Cannon extends Chess {
         valid = true;
         switch (id){
             case BLACK:
-                imageIcon = new ImageIcon("Resources/bpao.png");
+                imageIcon = new ImageIcon("res/bpao.png");
                 break;
 
             default:    //RED
-                imageIcon = new ImageIcon("Resources/rpao.png");
+                imageIcon = new ImageIcon("res/rpao.png");
                 break;
         }
 

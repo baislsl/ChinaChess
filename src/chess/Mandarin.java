@@ -25,13 +25,13 @@ public class Mandarin extends Chess {
         valid = true;
         switch (id){
             case BLACK:
-                imageIcon = new ImageIcon("Resources/bshi.png");
+                imageIcon = new ImageIcon("res/bshi.png");
                 yMin = 0;
                 yMax = 2;
                 break;
 
             default:    //RED
-                imageIcon = new ImageIcon("Resources/rshi.png");
+                imageIcon = new ImageIcon("res/rshi.png");
                 yMin = 7;
                 yMax = 9;
                 break;

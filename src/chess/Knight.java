@@ -36,11 +36,11 @@ public class Knight extends Chess {
         valid = true;
         switch (id){
             case BLACK:
-                imageIcon = new ImageIcon("Resources/bma.png");
+                imageIcon = new ImageIcon("res/bma.png");
                 break;
 
             default:    //RED
-                imageIcon = new ImageIcon("Resources/rma.png");
+                imageIcon = new ImageIcon("res/rma.png");
                 break;
         }
 

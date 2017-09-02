@@ -38,11 +38,11 @@ public class Rook extends Chess {
         valid = true;
         switch (id){
             case BLACK:
-                imageIcon = new ImageIcon("Resources/bche.png");
+                imageIcon = new ImageIcon("res/bche.png");
                 break;
 
             default:    //RED
-                imageIcon = new ImageIcon("Resources/rche.png");
+                imageIcon = new ImageIcon("res/rche.png");
                 break;
         }
 
